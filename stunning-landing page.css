@@ -1,0 +1,139 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav2{
+    margin-left: 20px;
+    justify-content: left;
+  width:5%
+}
+
+
+.nav3{
+    justify-content: center;
+    
+}
+.nav4{
+    margin-right: 20px;
+    justify-content: right;
+    
+}
+span{
+    margin-right: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+button{
+    border-radius: 10px;
+    padding:10px;
+    color: blue;
+    background-color:pink;
+}
+.button:hover{
+background-color:white;
+color: blue;
+box-shadow: 10px 10px 10px gray;
+}
+.nac{
+    background-color: blue;
+    color:white;
+    margin-bottom: 20px;
+}
+.design{
+    padding-bottom: 10px;
+    background-color:blue;
+    color:white;
+}
+.design:hover{
+    background-color: yellow;
+    color:brown;
+    box-shadow: 10px 10px 10px grey;
+}
+span:hover{
+    color: white;
+    background-color: blue;
+}
+.body2{
+    display: inline-block;
+    overflow: hidden;
+    max-width: 60%;
+    height: 700px;
+}
+.go2{
+    width: 20px;
+}
+.design2{
+    width: 50px;
+    height: 30px;
+    display: flex;
+}
+.button{
+    display:flex;
+    border: none;
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+
+}
+.button2{
+    display:flex;
+    border: none;
+width: 200px;
+    height: 50px;
+}
+.button2:hover{
+    background-color: white;
+    color: blue;
+    box-shadow: 10px 10px 10px gray;
+}
+.design3{
+    width: 50px;
+    height: 30px;
+    display: flex;
+}
+.button3{
+    display:flex;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+.button3:hover{
+    background-color: white;
+    color: blue;
+    box-shadow: 10px 10px 10px gray;
+}
+.design4{
+    width: 50px;
+    height: 30px;
+    display: flex;
+}
+.button4{
+    display:flex;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+.button4:hover{
+    background-color: white;
+    color: blue;
+    box-shadow: 10px 10px 10px gray;
+}
+.design5{
+    width: 50px;
+    height: 30px;
+    display: flex;
+}
+.design1{
+    width: 550px;
+    height: 500px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    width:100px;
+    height:50px ;
+}
